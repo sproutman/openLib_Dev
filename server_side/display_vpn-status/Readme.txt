@@ -1,0 +1,1 @@
+http://axelilly.wordpress.com/2007/09/27/script-to-display-openvpn-status/
