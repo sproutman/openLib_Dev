@@ -1,0 +1,1 @@
+openvpn通过ldap或ad统一认证解决方案思路分享
